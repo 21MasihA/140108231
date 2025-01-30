@@ -1,0 +1,29 @@
+@font-face {
+    font-family: bnazanin;
+    src: url("../fonts/B_NAZANIN/B-NAZANIN.TTF");
+}
+body{
+    font-family: bnazanin;
+}
+.my-nav{
+    direction: rtl;
+}
+.banner_taital , .banner_text {
+    padding-left: 60px;
+  }
+  .about_text , .about_taital_1, .about_taital {
+    direction: rtl;
+    text-align: right;
+  }
+  .about_taital,.moark_text,.client_taital_main{
+    text-align: center;
+  }
+.prep_text,.lorem_text{
+    text-align: right;
+}
+.mail_section_1 input, .mail_section_1 textarea{
+    text-align: right;
+    padding-right: 40px;
+}
+
+  
